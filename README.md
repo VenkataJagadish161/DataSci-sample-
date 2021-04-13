@@ -1,1 +1,1 @@
-# DataSci-sample-
+# DataScience-sample-repository
